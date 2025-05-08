@@ -1,0 +1,20 @@
+Kovács Anna;34;Nő;Könyvelő;Könyvelés
+Nagy Béla;29;Férfi;Fejlesztő;Informatika
+Szabó Csilla;41;Nő;HR vezető;HR
+Tóth Dávid;26;Férfi;Rendszergazda;Informatika
+Kiss Mária;38;Nő;Könyvelő;Könyvelés
+Farkas Ádám;45;Férfi;IT vezető;Informatika
+Varga Zsófia;30;Nő;Marketinges;Marketing
+Sárközi László;33;Férfi;Elemző;Pénzügy
+Németh Edit;36;Nő;Projektmenedzser;Fejlesztés
+Bognár Péter;40;Férfi;Fejlesztő;Fejlesztés
+Horváth Júlia;27;Nő;Grafikus;Marketing
+Lakatos Gergely;39;Férfi;Könyvelő;Könyvelés
+Bíró Eszter;31;Nő;HR asszisztens;HR
+Tamás Dénes;44;Férfi;Fejlesztő;Fejlesztés
+Papp Veronika;35;Nő;Pénzügyi vezető;Pénzügy
+Szegedi András;28;Férfi;Junior fejlesztő;Fejlesztés
+Oláh Erika;32;Nő;Marketing vezető;Marketing
+Simon Imre;50;Férfi;Gazdasági igazgató;Vezetés
+Kelemen Tímea;29;Nő;Adminisztrátor;HR
+Balogh Norbert;37;Férfi;Rendszergazda;Informatika
